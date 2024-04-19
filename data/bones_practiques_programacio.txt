@@ -1,0 +1,7 @@
+1. Ser Clar amb els Requeriments: Crear un document de especificació de requisits de software que detalli els requeriments i les especificacions de disseny.
+2. Procediment de Desenvolupament Apropiat: Utilitzar cicles de vida de desenvolupament de software (SDLC) com Agile o Waterfall per gestionar el flux de treball.
+3. Utilitzar un Marc d'Aplicació: Aprofitar els frameworks d'aplicacions per a reutilitzar components de software i simplificar el procés de desenvolupament.
+4. Mantenir el Codi Fàcil d'Entendre: El codi ha de ser simple, fàcil de provar i entendre, amb límits lògics confinats a un sol domini.
+5. Treballar en Parells o Integrar Revisions de Codi: Treballar en parella o realitzar revisions de codi per millorar la qualitat del codi, la comunicació, la col·laboració i el transferència de coneixement.
+6. Escriure Proves Unitàries Abans de l'Elaboració del Codi: Realitzar proves contínues al llarg del procés de desenvolupament de software per identificar errors i bugs en el codi.
+7. Aquestes pràctiques són essencials per crear software de qualitat i mantenir processos de desenvolupament eficients i efectius.

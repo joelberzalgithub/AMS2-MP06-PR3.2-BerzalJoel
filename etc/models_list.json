@@ -1,0 +1,7 @@
+[
+    "https://dlcdn.apache.org/opennlp/models/langdetect/1.8.3/langdetect-183.bin",
+    "https://dlcdn.apache.org/opennlp/models/ud-models-1.0/opennlp-en-ud-ewt-sentence-1.0-1.9.3.bin",
+    "https://dlcdn.apache.org/opennlp/models/ud-models-1.0/opennlp-en-ud-ewt-tokens-1.0-1.9.3.bin",
+    "https://opennlp.sourceforge.net/models-1.5/en-pos-maxent.bin",
+    "https://opennlp.sourceforge.net/models-1.5/en-ner-person.bin"
+]

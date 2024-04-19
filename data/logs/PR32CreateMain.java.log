@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-19T20:55:10.384063700Z</date>
+  <millis>1713560110384</millis>
+  <nanos>63700</nanos>
+  <sequence>0</sequence>
+  <logger>cat.iesesteveterradas.PR32CreateMain</logger>
+  <level>INFO</level>
+  <class>cat.iesesteveterradas.PR32CreateMain</class>
+  <method>main</method>
+  <thread>30</thread>
+  <message>S'han inserit 10000 documents a MongoDB</message>
+</record>
+</log>
